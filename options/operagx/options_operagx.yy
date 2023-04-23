@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://dc.gxc.gg/home/games/game/0f0f1d49-1363-47e3-a33a-2197248e3238/edit",
+  "option_operagx_game_name": "Hotline Maracanã Testes",
+  "option_operagx_guid": "0f0f1d49-1363-47e3-a33a-2197248e3238",
+  "option_operagx_internalShareUrl": "https://gxc.gg/games/0f0f1d49-1363-47e3-a33a-2197248e3238/tracks/e3d1b81b-c693-4eb6-a22c-e9dc0de4a8e6",
+  "option_operagx_interpolate_pixels": false,
+  "option_operagx_next_version": "0.0.0.2",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "5a95f74f-f1b4-4646-a658-31dcbaed970a",
+  "option_operagx_team_name": "FEIJÃO DEV STUDIOS",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "0.0.0.1",
+}

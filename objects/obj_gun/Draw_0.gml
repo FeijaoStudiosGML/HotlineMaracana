@@ -1,0 +1,1 @@
+draw_sprite(spr_gun, type-1, x, y)

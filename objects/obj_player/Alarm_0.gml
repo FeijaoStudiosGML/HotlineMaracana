@@ -1,0 +1,2 @@
+///@desc Damage
+damage = false
